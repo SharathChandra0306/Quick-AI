@@ -437,6 +437,8 @@ export const getUserCreations = async (req, res) => {
                     limit: parseInt(limit),
                     total: totalCount[0]?.total || 0,
                     hasMore: (page * limit) < (totalCount[0]?.total || 0)
+                }
+            }
         });
 
     } catch (error) {
