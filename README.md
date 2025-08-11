@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Quick AI - Complete SaaS AI Platform
 
 A comprehensive AI-powered SaaS platform built with React, Node.js, and Express. Quick AI provides multiple AI generation tools including article writing, blog title generation, image creation, background removal, object removal, resume review, and community features.
@@ -343,3 +344,6 @@ This project is licensed under the MIT License.
 ---
 
 Built with ❤️ using modern web technologies
+=======
+# Quick-AI
+>>>>>>> 2895c7282faa6168c32c6c3fc0b76d7b83b93b0e
